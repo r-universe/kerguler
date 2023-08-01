@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "albopictus"]
-	path = albopictus
-	url = https://github.com/kerguler/albopictusr
 [submodule "Barnard"]
 	path = Barnard
 	url = https://github.com/kerguler/barnard
+[submodule "albopictus"]
+	path = albopictus
+	url = https://github.com/kerguler/albopictusr
